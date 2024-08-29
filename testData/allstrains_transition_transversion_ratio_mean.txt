@@ -1,0 +1,2 @@
+TransitionRate	TransversionRate	TransversionRate_type1(ATandCG)	TransversionRate_type2(ACandTG)
+0.638318313	0.361681687	0.144144034	0.217226751

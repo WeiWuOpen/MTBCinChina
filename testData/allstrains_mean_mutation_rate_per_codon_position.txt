@@ -1,0 +1,2 @@
+FirstBaseSNPRate	SecondBaseRate	ThirdBaseRate
+0.308528048	0.29592712	0.396608014
