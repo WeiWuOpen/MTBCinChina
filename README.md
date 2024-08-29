@@ -3,3 +3,4 @@
 3. Some scripts require the installation of specific Python or R packages. These packages are listed at the beginning of each script.
 4. All expected outputs based on the test data are stored in the "output" folder within the "testData" directory.
 5. Please run each method in the order specified by the script file names (such as step1, step2...).
+6. If you need more information or additional scripts related to this study, please contact me. Email: wuwei505019445@163.com, QQ: 2509178103.
